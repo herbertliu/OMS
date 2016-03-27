@@ -8,7 +8,7 @@
 
 优化概要：[移动端优化图谱](移动优化经验.md)
 
-诚邀大家一起完善，欢迎 [Fork](https://github.com/imweb/FKB/fork) & [Pull Request](https://github.com/imweb/FKB/pulls) & [Issue](https://github.com/imweb/FKB/issues)
+诚邀大家一起完善，欢迎 [Fork](https://github.com/herbertliu/OMS/fork) & [Pull Request](https://github.com/herbertliu/OMS/pulls) & [Issue](https://github.com/herbertliu/OMS/issues)
 
 ## Contributors
 
