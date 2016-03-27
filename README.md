@@ -4,8 +4,9 @@
 
 # 知识体系
 
-1. ![移动端优化图谱](./imgs/移动端优化经验.png)
-2. [移动端优化图谱](./移动端优化经验.md)
+![移动端优化图谱](./imgs/移动优化经验.png)
+
+优化概要：[移动端优化图谱](移动优化经验.md)
 
 诚邀大家一起完善，欢迎 [Fork](https://github.com/imweb/FKB/fork) & [Pull Request](https://github.com/imweb/FKB/pulls) & [Issue](https://github.com/imweb/FKB/issues)
 
